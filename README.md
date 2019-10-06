@@ -4,7 +4,7 @@
 This applications purpose is to assist anyone that's moving from one place to another, for someone who may need some assistance with organization of boxes laying around the house or in a shead from a move.
  
 ## Process Flow
-![process_flow](https://github.com/BrianMartinGit/Storage-Application/blob/master/images/Web%201920%20%E2%80%93%204.png)
+![process_flow](https://github.com/BrianMartinGit/Storage-Application/blob/master/images/Process%20Flow.png)
 
 ## App-Mockups
 ![app-mockups](https://github.com/BrianMartinGit/Storage-Application/blob/master/images/Web%201920%20%E2%80%93%204.png)
