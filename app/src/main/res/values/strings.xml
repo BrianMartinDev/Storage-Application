@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_id">Box Number</string>
+    <string name="title_addNew">Add New</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_createViewTitle">Fill your box with contents</string>
+    <string name="title_deleteViewTitle">Delete a box</string>
+    <string name="title_activity_delete">Delete</string>
+    <string name="editText_Location">Location</string>
+    <string name="editText_BoxNum">Box Number</string>
+    <string name="editText_Item">Item</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_View">View</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="title_Dashboard">Dashboard</string>
+    <string name="title_activity_add">Add Items</string>
+
+</resources>
