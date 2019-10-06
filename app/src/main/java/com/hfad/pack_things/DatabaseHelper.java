@@ -14,32 +14,13 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     // If you change the database schema, you must increment the database version refreshing the database tables.
 
     private static final int DATABASE_VERSION = 3;
-    private static final String DATABASE_NAME = "finaldb";
+    private static final String DATABASE_NAME = "applicationdb";
     private static final String TABLE_NAME = "boxdetails";
     private static final String KEY_ID = "id";
     private static final String COLUMN_NAME_ROOM = "room";
     private static final String COLUMN_NAME_BOX = "box";
     private static final String COLUMN_NAME_ITEM = "item";
-    /**
-     * This is a method description that is
-     * long enough to exceed right margin.
-     * <p>
-     * Another paragraph of the description
-     * placed after blank line.
-     * <p/>
-     * Line with manual line feed.
-     *
-     * @param i                  short named
-     *                           parameter description
-     * @param longParameterName  long named
-     *                           parameter description
-     * @param missingDescription
-     * @return return description.
-     * @throws XXXException description.
-     * @throws YException   description.
-     * @throws ZException
-     * @invalidTag
-     */
+
 
     /***
      * Create a helper object to create, open, and/or manage a database.
